@@ -1,0 +1,5 @@
+Rencana konten jk
+- Video mengenai javascript
+- Video PHP Framework
+- Interview
+- Vlog
